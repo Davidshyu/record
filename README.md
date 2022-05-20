@@ -1,4 +1,4 @@
-# record
+Android studio windows network reponse 中文亂碼問題
 
 
 讓 Android Studio 的 console 顯示 UTF-8 (non-ASCII)
